@@ -19,11 +19,11 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 PREFIX: process.env.PREFIX || ".",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "false", // true හෝ false
 FAKE_TYPING: process.env.FAKE_TYPING || "false",
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
-OWNER_REACT: process.env.OWNER_REACT || "true",
+OWNER_REACT: process.env.OWNER_REACT || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94728299192", // ඔයාගෙ නම්බර් එක
 OWNER_EMOJI: process.env.OWNER_EMOJI || "🔰", // ඉමෝජි
 BOT_NAME: process.env.BOT_NAME || "*〽️ASTER-MD*", // බොට් නම
@@ -35,5 +35,5 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 OWNER_NAME: process.env.OWNER_NAME || "Sadesha Hansana", // නම
 FOOTER: process.env.FOOTER || "> *POWERED BY 〽️ASTER FILM  👨‍💻*",
-MOVIE_FOOTER: process.env.MOVIE_FOOTER || "> *Movie 🍃*", //Movie footer  
+MOVIE_FOOTER: process.env.MOVIE_FOOTER || "> *〽️ASTER FILM*", //Movie footer  
 };
