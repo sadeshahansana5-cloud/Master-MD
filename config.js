@@ -24,7 +24,7 @@ CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "true",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "94727487353", // ඔයාගෙ නම්බර් එක
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94728299192", // ඔයාගෙ නම්බර් එක
 OWNER_EMOJI: process.env.OWNER_EMOJI || "🔰", // ඉමෝජි
 BOT_NAME: process.env.BOT_NAME || "*〽️ASTER-MD*", // බොට් නම
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
@@ -34,6 +34,6 @@ INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 OWNER_NAME: process.env.OWNER_NAME || "Sadesha Hansana", // නම
-FOOTER: process.env.FOOTER || "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴀᴠɪᴅᴜ ʀᴀꜱᴀɴɢᴀ  👨‍💻*",
+FOOTER: process.env.FOOTER || "> *POWERED BY 〽️ASTER FILM  👨‍💻*",
 MOVIE_FOOTER: process.env.MOVIE_FOOTER || "> *Movie 🍃*", //Movie footer  
 };
